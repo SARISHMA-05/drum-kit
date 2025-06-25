@@ -50,6 +50,8 @@ CSS3,
 JavaScript (ES6),
 Audio API,
 DOM Events.
+
+
 ouput:
 ![image](https://github.com/user-attachments/assets/33bca377-3725-4dd5-a4f8-f61bbe46a4f0)
 
